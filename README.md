@@ -8,4 +8,4 @@ At last you can see your result.
 
 
 
-<img align="right" alt="Coding" width="800" src="https://i.ytimg.com/vi/WYtPqPLhu-0/maxresdefault.jpg">
+<img align="right" alt="Coding" width="200" src="https://i.ytimg.com/vi/WYtPqPLhu-0/maxresdefault.jpg">
