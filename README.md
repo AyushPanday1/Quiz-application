@@ -1,3 +1,5 @@
+Please go through master branch.
+
 # Quiz-application
 
 This is a Mern application that can be used to examine your javascript knowlwdge.
